@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv39/
+ENV/
+env/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Model files
+*.h5
+*.pkl
+*.pth
+
+# Logs
+*.log
+logs/ 
